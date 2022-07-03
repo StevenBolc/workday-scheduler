@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
-  
+
 }
 
 textarea {
@@ -42,17 +42,17 @@ textarea {
   border-top: 1px dashed #000000;
   padding-top: 30px;
   padding-left: 15px;
-  
+
 }
 
 .past {
-  background-color:  #d3d3d3;
+  background-color: #d3d3d3;
   border-radius: 15px;
   color: white;
-  
+
 }
 
-.present {  
+.present {
   background-color: #ff6961;
   border-radius: 15px;
   color: white;
